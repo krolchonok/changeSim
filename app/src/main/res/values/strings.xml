@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">changeSim</string>
+    <string name="tile_label">starting...</string>
+</resources>
