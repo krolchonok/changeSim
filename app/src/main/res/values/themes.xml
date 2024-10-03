@@ -8,8 +8,8 @@
     <style name="Theme.ChangeSim" parent="Base.Theme.ChangeSim" />
 
     <style name="Theme.ChangeSim.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
-        <item name="appWidgetRadius">10dp</item>
-        <item name="appWidgetInnerRadius">10dp</item>
+        <item name="appWidgetRadius">20dp</item>
+        <item name="appWidgetInnerRadius">18dp</item>
     </style>
 
     <style name="Theme.ChangeSim.AppWidgetContainer" parent="Theme.ChangeSim.AppWidgetContainerParent">
